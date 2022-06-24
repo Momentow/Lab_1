@@ -1,0 +1,10 @@
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\bin\Release\Laba_1.exe.config
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\bin\Release\Laba_1.exe
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\bin\Release\Laba_1.pdb
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\bin\Release\Newtonsoft.Json.dll
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\bin\Release\Newtonsoft.Json.xml
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\obj\Release\Laba_1.csproj.AssemblyReference.cache
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\obj\Release\Laba_1.csproj.CoreCompileInputs.cache
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\obj\Release\Laba_1.csproj.CopyComplete
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\obj\Release\Laba_1.exe
+C:\Университет\II семестр\ОП 2\Проекты\Laba_1\Laba_1\obj\Release\Laba_1.pdb
